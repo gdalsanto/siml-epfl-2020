@@ -9,7 +9,7 @@ This repository is a collaction of assignments that were part of the final grade
 1. Logistic Regression, Quadratic Programming, and Softmax Regression
 2. Feature Selection
 3. PCA, EM Algorithm, MCMC Algorithm
-4. (Midterm) Suppert Vector Machine and Generative Models
+4. (Midterm) Support Vector Machine and Generative Models
 
 
 Each assignment consists in the implementation of a Matlab or/and Python program and a report. Instructions can be found in their respective `assignment.pdf` file.
